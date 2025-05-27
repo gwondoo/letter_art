@@ -6,6 +6,18 @@ A simple and fun Python library to turn your images into terminal-ready retro te
 
 ---
 
+## Example
+
+### Original Image
+
+![Original](assets/original.jpg)
+
+### Converted ASCII Art (screenshot)
+
+![ASCII Art](assets/ascii_art.png)
+
+---
+
 ## Installation
 
 ```bash
