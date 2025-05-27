@@ -50,11 +50,11 @@ def convert_image_to_ascii(
             with open(output_path, "w", encoding="utf-8") as f:
                 f.write(ascii_img)
 
-        print(f"[✔] ASCII 아트가 '{output_path}'에 저장되었습니다.")
+        print(f"[✔] ASCII art has been saved to '{output_path}'.")
         return None
 
     else:
-        raise ValueError("output 값은 'print' 또는 'file'이어야 합니다.")
+        raise ValueError("output must be either 'print' or 'file'.")
 
 def main():
     parser = argparse.ArgumentParser(description="Convert an image into ASCII art.")
