@@ -10,11 +10,11 @@ A simple and fun Python library to turn your images into terminal-ready retro te
 
 ### Original Image
 
-![Original](assets/original.jpg)
+![Original](https://github.com/gwondoo/letter_art/blob/main/assets/original.jpg)
 
 ### Converted ASCII Art (screenshot)
 
-![ASCII Art](assets/ascii_art.png)
+![ASCII Art](![assets/ascii_art.png](https://github.com/gwondoo/letter_art/blob/main/assets/ascii_art.png))
 
 ---
 
